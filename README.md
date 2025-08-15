@@ -10,7 +10,6 @@ Este é o repositório oficial do website institucional da KH4OS, uma startup de
 * [Sobre o Projeto](#-sobre-o-projeto)
 * [Principais Funcionalidades](#-principais-funcionalidades)
 * [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-* [Como Começar](#-como-começar)
 * [Estrutura do Projeto](#-estrutura-do-projeto)
 * [Licença](#-licença)
 * [Contato](#-contato)
