@@ -45,22 +45,6 @@ Este projeto foi construído utilizando as tecnologias fundamentais da web moder
 * **CSS3:** Para estilização, layout (Flexbox/Grid) e animações.
 * **JavaScript (ES6+):** Para interatividade, como a rolagem suave e manipulação de eventos.
 
-## ▶️ Como Começar
-
-Para obter uma cópia local do projeto e executá-la, siga estes passos simples.
-
-1.  **Clone o repositório**
-    ```sh
-    git clone [https://github.com/](https://github.com/)[seu-usuario]/[nome-do-repositorio].git
-    ```
-2.  **Navegue até a pasta do projeto**
-    ```sh
-    cd [nome-do-repositorio]
-    ```
-3.  **Abra o arquivo `index.html`** no seu navegador de preferência.
-
-    **Dica:** Para uma melhor experiência de desenvolvimento, recomendo usar a extensão "Live Server" no Visual Studio Code, que atualiza a página automaticamente a cada alteração salva.
-
 ## 📂 Estrutura do Projeto
 
 A estrutura de arquivos segue um padrão simples e organizado:
