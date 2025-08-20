@@ -406,6 +406,10 @@ img {
     .hide-on-mobile {
         display: none !important;
     }
+
+    .recent-posts-with-margin {
+        margin-left: 0 !important; /* Remove a margem à esquerda */
+    }
 }
 
 /*--------------------------------------------------------------
@@ -5013,4 +5017,11 @@ canvas {
         background-color: black; /* Volta ao estado normal */
         color: white;
     }
+}
+
+/* 1. Estilo para telas grandes (desktop) */
+.recent-posts-with-margin {
+    margin-left: 200px;
+    background-color: lightblue; /* Cor de fundo para vermos o efeito */
+    padding: 20px;
 }
