@@ -1,49 +1,87 @@
-﻿# Website Institucional da KH4OS
+﻿Website Institucional da KH4OS
+Este é o repositório oficial do website institucional da KH4OS, uma "fábrica" de Micro-SaaS focada em criar produtos digitais autônomos, inteligentes e de alta performance. O site serve como nosso hub central, apresentando nossa filosofia de Autonomia como o Próximo Estágio da Inovação.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Status](https://img.shields.io/badge/status-MVP%20Concluído-success.svg)
+🚀 Nosso Primeiro Produto: AluguelOK
+Nosso primeiro grande lançamento é o AluguelOK (o link é um exemplo).
 
-Este é o repositório oficial do website institucional da KH4OS, uma startup de deep tech focada em transformar complexidade e caos em segurança, resiliência e vantagem competitiva através de soluções de ponta em Inteligência Artificial e Computação Quântica.
+O AluguelOK é a personificação perfeita da nossa filosofia: é uma plataforma de IA dedicada a trazer transparência e segurança para o mercado de locação imobiliária. A ferramenta resolve um problema de nicho complexo (a "tradução" e análise de contratos jurídicos) para um público-alvo claro (Inquilinos e Proprietários), entregando valor de forma autônoma e acessível.
 
-## 📖 Tabela de Conteúdos
+📖 Tabela de Conteúdos
+Sobre o Projeto
 
-* [Sobre o Projeto](#-sobre-o-projeto)
-* [Principais Funcionalidades](#-principais-funcionalidades)
-* [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-* [Estrutura do Projeto](#-estrutura-do-projeto)
-* [Licença](#-licença)
-* [Contato](#-contato)
+Produto Destaque: AluguelOK
 
-## 🚀 Sobre o Projeto
+Principais Funcionalidades
 
-O website da KH4OS foi desenvolvido para servir como o principal ponto de contato e autoridade da marca no ambiente digital. O objetivo é apresentar de forma clara e convincente a nossa filosofia de "Entropia Baseada no Caos", detalhar nosso portfólio de serviços de alta complexidade e converter o interesse de potenciais clientes em conversas estratégicas.
+Tecnologias Utilizadas
 
-O design segue uma estética moderna e "deep tech", enquanto o conteúdo busca ser transparente, educativo e alinhado com nossa missão de fornecer "aaS (as a Service) para todos em qualquer lugar".
+Estrutura do Projeto
 
-## ✨ Principais Funcionalidades
+Licença
 
-O site é construído no estilo "one-page" para a página principal, com seções bem definidas e navegação suave entre elas.
+Contato
 
-- [x] **Seção Hero:** Apresentação impactante da marca.
-- [x] **Portfólio de Serviços:** Detalhamento das soluções (Segurança Preditiva, Criptografia Pós-Quântica, etc.).
-- [x] **Diferenciais ("Por Que Nos Escolher"):** Seção para construção de confiança e autoridade.
-- [x] **Planos e Preços:** Modelo de negócio transparente baseado em créditos.
-- [x] **Nossa Equipe:** Apresentação criativa do conceito "one-person army".
-- [x] **Artigos Recentes:** Seção para estabelecer liderança de pensamento (Blog).
-- [x] **FAQ (Perguntas Frequentes):** Quebra de objeções e esclarecimento de dúvidas comuns.
-- [x] **Call-to-Action (CTA):** Seção final de conversão com link direto para WhatsApp.
-- [x] **Rodapé Completo:** Mapa do site com links úteis e informações de contato.
-- [x] **Páginas Legais:** Termos e Condições e Política de Privacidade.
-- [x] **Design Responsivo:** (Assumindo que será implementado) Adaptável para diferentes tamanhos de tela.
+🎯 Sobre o Projeto
+O website da KH4OS foi desenvolvido para servir como o principal ponto de contato e autoridade da marca. O objetivo é apresentar nossa tese de negócios: nós construímos, lançamos e operamos uma esteira de produtos Micro-SaaS que usam automação inteligente para resolver problemas reais.
 
-## 💻 Tecnologias Utilizadas
+Este site detalha nossa proposta de valor como "fábrica", apresenta nosso portfólio de produtos (começando com o AluguelOK) e converte o interesse de clientes e parceiros em conversas estratégicas.
 
-Este projeto foi construído utilizando as tecnologias fundamentais da web moderna.
+✨ Principais Funcionalidades
+O site é construído no estilo "one-page", com seções bem definidas e navegação suave:
 
-* **HTML5:** Para a estrutura semântica do conteúdo.
-* **CSS3:** Para estilização, layout (Flexbox/Grid) e animações.
-* **JavaScript (ES6+):** Para interatividade, como a rolagem suave e manipulação de eventos.
+[x] Seção Hero: Apresentação da tese central da KH4OS ("Autonomia é o próximo estágio da inovação").
 
-## 📂 Estrutura do Projeto
+[x] Como Funciona (Serviços): Detalha nossa atuação como "fábrica": Desenvolvimento de IA de Nicho, Infraestrutura Micro-SaaS e Automação de Processos.
 
-A estrutura de arquivos segue um padrão simples e organizado:
+[x] Preços: Apresenta o modelo de negócio do AluguelOK (Pagamento Único por Análise e Reanálise) como um exemplo de nossa abordagem acessível.
+
+[x] Sobre Nós ("Nossa Equipe"): Apresentação criativa do conceito "one-person army" e das competências da fundação.
+
+[x] Dúvidas (FAQ): Respostas claras sobre a KH4OS e o AluguelOK (Ex: "A IA substitui um advogado?", "Meus dados estão seguros?").
+
+[x] Artigos Recentes: Seção para estabelecer liderança de pensamento (Blog).
+
+[x] Call-to-Action (CTA): Seção de conversão com link direto para WhatsApp.
+
+[x] Rodapé Completo: Mapa do site com links para páginas legais (/Policy, /Help) e informações de contato.
+
+💻 Tecnologias Utilizadas
+Este projeto é um site estático construído com tecnologias web modernas e um conjunto de bibliotecas de animação de alta performance.
+
+HTML5: Para a estrutura semântica do conteúdo.
+
+Tailwind CSS: (Baseado no template "Inazuma") Para um design "utility-first" rápido e responsivo.
+
+JavaScript (ES6+): Para toda a interatividade, incluindo:
+
+ScrollReveal.js: Para as animações de "fade-in" dos elementos ao rolar.
+
+Swiper.js: Para o carrossel de depoimentos.
+
+GLightbox.js: Para o popup do vídeo de apresentação.
+
+📂 Estrutura do Projeto
+A estrutura de arquivos segue um padrão simples para um hotsite estático:
+
+/
+├── index.html         # O arquivo principal do hotsite (preenchido com o conteúdo)
+├── css/
+│   ├── main.css       # A folha de estilo principal (Tailwind + customizações)
+├── js/
+│   └── main.js        # Script principal para inicialização dos plugins
+├── img/
+│   ├── hero.png       # Imagem da seção principal
+│   ├── about-img.jpg  # Imagem da seção "Sobre"
+│   ├── avatar/        # Fotos da equipe
+│   ├── portfolio/     # Imagens dos "cases"
+│   └── ...
+├── favicon/
+│   └── ...            # Todos os ícones da aplicação
+└── ...
+📄 Licença
+Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+📞 Contato
+KH4OS - contato@kh4os.io
+
+Link do Projeto: https://github.com/KH4OS-IO/CorporateWeb
