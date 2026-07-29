@@ -1,87 +1,58 @@
-﻿Website Institucional da KH4OS
-Este é o repositório oficial do website institucional da KH4OS, uma "fábrica" de Micro-SaaS focada em criar produtos digitais autônomos, inteligentes e de alta performance. O site serve como nosso hub central, apresentando nossa filosofia de Autonomia como o Próximo Estágio da Inovação.
+﻿# KH4OS Institutional Website
 
-🚀 Nosso Primeiro Produto: AluguelOK
-Nosso primeiro grande lançamento é o AluguelOK (o link é um exemplo).
+This is the official repository for the institutional website of KH4OS, the Trust and Execution Provenance Layer for the AI Agent Economy. The site serves as our central hub, presenting our core thesis: **Autonomy is the Next Stage of Innovation**.
 
-O AluguelOK é a personificação perfeita da nossa filosofia: é uma plataforma de IA dedicada a trazer transparência e segurança para o mercado de locação imobiliária. A ferramenta resolve um problema de nicho complexo (a "tradução" e análise de contratos jurídicos) para um público-alvo claro (Inquilinos e Proprietários), entregando valor de forma autônoma e acessível.
+> **Note on our Pivot:** KH4OS originally started as a Micro-SaaS factory (with products like AluguelOK). We have since evolved into a Deep Tech infrastructure company. This website reflects our new focus on cryptographic security and hardware-level attestation for autonomous AI.
 
-📖 Tabela de Conteúdos
-Sobre o Projeto
+## 🚀 Our Core Technology: d10nysus Node
+Our primary product is the **d10nysus** architecture. It is the first execution attestation layer ready for integration, built to prove—via hardware cryptography (Multi-TEE) and distributed thermodynamic jitter—that an action was genuinely executed by an AI agent, defeating human operators, deterministic scripts, and stolen credentials.
 
-Produto Destaque: AluguelOK
+## 📖 Table of Contents
+* [About the Project](#-about-the-project)
+* [Main Features](#-main-features)
+* [Technologies Used](#-technologies-used)
+* [Project Structure](#-project-structure)
+* [License](#-license)
+* [Contact](#-contact)
 
-Principais Funcionalidades
+## 🎯 About the Project
+The KH4OS website was developed to serve as the main touchpoint and authority for the brand. The goal is to present our business thesis: we build the necessary infrastructure to bring mathematical and physical trust to the autonomous agent economy. 
 
-Tecnologias Utilizadas
+This site details our deep tech approach, presents our strategic roadmap, and converts the interest of potential partners and clients into strategic conversations.
 
-Estrutura do Projeto
+## ✨ Main Features
+The site is built in a "one-page" style, with well-defined sections and smooth navigation:
 
-Licença
+*   **[x] Hero Section:** Presentation of the central KH4OS thesis ("Autonomy is the next stage of innovation").
+*   **[x] The Thesis:** Explains the core problem (Key Identity vs. Execution Provenance).
+*   **[x] Technical Deep Dive:** Details the d10nysus node architecture (Multi-TEE, Thermodynamic Jitter, Zero-Allocation).
+*   **[x] Strategic Roadmap:** Outlines our vision in layers (Layer 1 to Layer 3).
+*   **[x] About Us ("Our Team"):** Creative presentation of the "one-person army" concept and the founding skills[cite: 1].
+*   **[x] FAQ:** Clear answers about KH4OS and our technology[cite: 1].
+*   **[x] Call-to-Action (CTA):** Conversion section with a direct link to WhatsApp[cite: 1].
+*   **[x] Full Footer:** Site map with links to legal pages (/Policy, /Help) and contact information[cite: 1].
 
-Contato
+## 💻 Technologies Used
+This project is a static site built with modern web technologies and a set of high-performance animation libraries[cite: 1]:
 
-🎯 Sobre o Projeto
-O website da KH4OS foi desenvolvido para servir como o principal ponto de contato e autoridade da marca. O objetivo é apresentar nossa tese de negócios: nós construímos, lançamos e operamos uma esteira de produtos Micro-SaaS que usam automação inteligente para resolver problemas reais.
+*   **HTML5:** For the semantic structure of the content[cite: 1].
+*   **CSS / UI Framework:** For responsive and modern styling, adapted from our previous layouts[cite: 1].
+*   **JavaScript (ES6+):** For all interactivity[cite: 1], including scroll animations, dynamic carousels, and UI logic.
 
-Este site detalha nossa proposta de valor como "fábrica", apresenta nosso portfólio de produtos (começando com o AluguelOK) e converte o interesse de clientes e parceiros em conversas estratégicas.
+## 📂 Project Structure
+The file structure follows a simple pattern for a static hotsite[cite: 1]:
 
-✨ Principais Funcionalidades
-O site é construído no estilo "one-page", com seções bem definidas e navegação suave:
-
-[x] Seção Hero: Apresentação da tese central da KH4OS ("Autonomia é o próximo estágio da inovação").
-
-[x] Como Funciona (Serviços): Detalha nossa atuação como "fábrica": Desenvolvimento de IA de Nicho, Infraestrutura Micro-SaaS e Automação de Processos.
-
-[x] Preços: Apresenta o modelo de negócio do AluguelOK (Pagamento Único por Análise e Reanálise) como um exemplo de nossa abordagem acessível.
-
-[x] Sobre Nós ("Nossa Equipe"): Apresentação criativa do conceito "one-person army" e das competências da fundação.
-
-[x] Dúvidas (FAQ): Respostas claras sobre a KH4OS e o AluguelOK (Ex: "A IA substitui um advogado?", "Meus dados estão seguros?").
-
-[x] Artigos Recentes: Seção para estabelecer liderança de pensamento (Blog).
-
-[x] Call-to-Action (CTA): Seção de conversão com link direto para WhatsApp.
-
-[x] Rodapé Completo: Mapa do site com links para páginas legais (/Policy, /Help) e informações de contato.
-
-💻 Tecnologias Utilizadas
-Este projeto é um site estático construído com tecnologias web modernas e um conjunto de bibliotecas de animação de alta performance.
-
-HTML5: Para a estrutura semântica do conteúdo.
-
-Tailwind CSS: (Baseado no template "Inazuma") Para um design "utility-first" rápido e responsivo.
-
-JavaScript (ES6+): Para toda a interatividade, incluindo:
-
-ScrollReveal.js: Para as animações de "fade-in" dos elementos ao rolar.
-
-Swiper.js: Para o carrossel de depoimentos.
-
-GLightbox.js: Para o popup do vídeo de apresentação.
-
-📂 Estrutura do Projeto
-A estrutura de arquivos segue um padrão simples para um hotsite estático:
-
+```text
 /
-├── index.html         # O arquivo principal do hotsite (preenchido com o conteúdo)
+├── index.html       # The main hotsite file (filled with content)[cite: 1]
 ├── css/
-│   ├── main.css       # A folha de estilo principal (Tailwind + customizações)
+│   └── main.css     # The main stylesheet[cite: 1]
 ├── js/
-│   └── main.js        # Script principal para inicialização dos plugins
+│   └── main.js      # Main script for plugin initialization[cite: 1]
 ├── img/
-│   ├── hero.png       # Imagem da seção principal
-│   ├── about-img.jpg  # Imagem da seção "Sobre"
-│   ├── avatar/        # Fotos da equipe
-│   ├── portfolio/     # Imagens dos "cases"
-│   └── ...
+│   ├── hero.png     # Main section image[cite: 1]
+│   ├── avatar/      # Team photos[cite: 1]
+│   └── ...
 ├── favicon/
-│   └── ...            # Todos os ícones da aplicação
+│   └── ...          # All application icons[cite: 1]
 └── ...
-📄 Licença
-Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-📞 Contato
-KH4OS - contato@kh4os.io
-
-Link do Projeto: https://github.com/KH4OS-IO/CorporateWeb
